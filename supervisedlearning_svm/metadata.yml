@@ -1,0 +1,12 @@
+---
+:id: 52444937
+:submitters:
+- :name: Stefano Daniel Tusa
+  :email: stusa2@jhu.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-10-30 02:22:26.955830000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-10-29 19:22:26.955830000 Z
+:status: processed
+:score: 34.25
